@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.Heading{
+  border: 2px solid black;
+  margin:0.5%;
+  width:30%;
+}
+.BoardList{
+  display: flex;
+  justify-content: center;
+}
+

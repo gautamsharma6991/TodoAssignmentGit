@@ -1,0 +1,10 @@
+.Board{
+  background-color: orangered;
+  width:24%;
+  margin:0.5%;
+}
+.BoardHeading{
+  align-items:center;
+  border: 2px solid black;
+  padding:0.5%;
+}
